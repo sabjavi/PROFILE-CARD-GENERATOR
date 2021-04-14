@@ -65,7 +65,8 @@ window.onload = function() {
     // this is the url of the image that will used as background for the profile cover
     background: "https://picsum.photos/200/300",
     // this is the url for the profile avatar
-    avatarURL: "https://randomuser.me/api/portraits/men/3.jpg",
+    avatarURL:
+      "https://c8.alamy.com/compes/r5megw/hombre-feliz-pop-art-avatar-icono-de-caracter-r5megw.jpg",
     // social media bar position (left or right)
     socialMediaPosition: "position-left",
     // social media usernames
