@@ -66,7 +66,7 @@ window.onload = function() {
     background: "https://picsum.photos/200/300",
     // this is the url for the profile avatar
     avatarURL:
-      "https://c8.alamy.com/compes/r5megw/hombre-feliz-pop-art-avatar-icono-de-caracter-r5megw.jpg",
+      "https://previews.123rf.com/images/jemastock/jemastock1705/jemastock170502974/77532531-imagen-en-color-de-dibujos-animados-medio-cuerpo-ilustraci%C3%B3n-de-vector-de-hombre-ejecutivo.jpg",
     // social media bar position (left or right)
     socialMediaPosition: "position-left",
     // social media usernames
